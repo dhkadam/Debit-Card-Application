@@ -1,9 +1,9 @@
 # Debit-Card-Application
-download the zip folder 
-extract the folder
-open the folder in vs code
-open terminal
-Run below command
-npm install
-then after run below project to run application
+1.download the zip folder 
+2.extract the folder
+3.open the folder in vs code
+4.open terminal
+5.Run below command
+6.npm install
+6.run below command to launch the application locally
 npm start
